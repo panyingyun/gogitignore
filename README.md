@@ -53,7 +53,7 @@ sudo cp gg /usr/local/bin
 
 ```bash
 # 生成 Python 模板
-gg go
+gg python
 
 # 生成 Go 模板
 gg go
